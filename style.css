@@ -75,7 +75,7 @@ section {
     line-height: 1.2;
 }
 
-#card .infos h3 {
+#card .infos h1 {
     font-weight: 700;
     font-size: 20px;
     color: var(--dark-blue);
